@@ -1,5 +1,5 @@
 {
-    "name": "qlick/laravel-full-calendar",
+    "name": "ssbrandsma/laravel-full-calendar",
     "description": "Laravel helper for FullCalendar.io. Fork of https://github.com/maddhatter/laravel-fullcalendar",
     "authors": [
         {
